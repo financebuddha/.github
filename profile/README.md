@@ -45,10 +45,10 @@ For more information or inquiries, please reach out to us at [support@financebud
 
 Stay connected with us:
 
-- [Website](https://www.financebuddha.com)
-- [LinkedIn](https://www.linkedin.com/company/finance-buddha)
-- [Twitter](https://twitter.com/FinanceBuddha)
-- [Facebook](https://facebook.com/financebuddha)
+- <a href="https://www.financebuddha.com" target="_blank">Website</a>
+- <a href="https://www.linkedin.com/company/finance-buddha" target="_blank">LinkedIn</a>
+- <a href="https://twitter.com/FinanceBuddha" target="_blank">Twitter</a>
+- <a href="https://facebook.com/financebuddha" target="_blank">Facebook</a>
 
 Thank you for visiting Finance Buddha! 🚀
 
