@@ -35,7 +35,7 @@ We are on an exciting journey to simplify and streamline the financial process f
 
 ## Get Involved
 
-We are always looking for talented individuals to join our mission to revolutionize financial services. Check out our [open positions](#) or contribute to our projects on GitHub!
+We are always looking for talented individuals to join our mission to revolutionize financial services. Check out our [open positions](https://www.financebuddha.com) or contribute to our projects on GitHub!
 
 ## Contact Us
 
