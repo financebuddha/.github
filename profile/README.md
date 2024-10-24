@@ -1,6 +1,6 @@
 <div  align="center" >
   
-![finbud-logo](https://github.com/user-attachments/assets/c50fc418-42c9-403d-b880-d345e2792f33)
+![finbud-logo](https://github.com/user-attachments/assets/a3728791-18d0-4f41-adc6-e2d06fe844e0)
 
 <b> *Not just a Loan Comparison site, we get you the cheque also.* </b>
 
