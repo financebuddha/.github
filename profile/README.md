@@ -1,6 +1,10 @@
 <div  align="center" >
+
+ <a href="https://www.financebuddha.com" target="_blank">
   
 ![finbud-logo](https://github.com/user-attachments/assets/a3728791-18d0-4f41-adc6-e2d06fe844e0)
+
+</a>
 
 <b> *Not just a Loan Comparison site, we get you the cheque also.* </b>
 
