@@ -53,7 +53,7 @@ Cerebro (under Jarvis)
   Data Engineering
   Data Science
 DevOps SRE
-Finbud Devs
+Finbud Devs (deprecated)
 Friday
   Friday Backend Writers
   Friday Web Writers
